@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: lime;
+}
+
+.member__heading{
+	font-size: 35px;
+	color: white;
+	font-family: century gothic;
+	text-align: center;
+}
+
+.member__text{
+	background: orange;
+}
+
+.member__label{
+	font-size: 20px;
+	margin: 50px;
+	color: orange;
+}
